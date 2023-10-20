@@ -1,5 +1,3 @@
-
-```markdown
 # PowerShell UDP Relay Script
 
 ## Overview
